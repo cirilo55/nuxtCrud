@@ -34,9 +34,11 @@ yarn dev
 
 ## SCRIPTS E BANCO DE DADOS
 
-# Foi usado mysql e typescript dentro da api 'server' nativa do nuxt;
-# Favor rodar os scripts de tabelas que estão dentro de scripts.sql;
+# Favor rodar scripts dentro de script.sql na pasta raiz.
 
+
+```bash
+Favor rodar os scripts de tabelas que estão dentro de scripts.sql
 
 create database nuxt3_blog;
 

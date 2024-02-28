@@ -20,13 +20,13 @@
 
           <div class="m-8 grid">
             <label>Password: </label>
-            <TextInput type="text" placeholder="Enter password" v-model="form.password" />
+            <TextInput type="password" placeholder="Enter password" v-model="form.password" />
           </div>
 
   
           <div class="m-8 grid">
             <label>Re-Password: </label>
-            <TextInput  type="text" placeholder="Repeat password" class="bg-white" v-model="form.repassword" />
+            <TextInput  type="password" placeholder="Repeat password" class="bg-white" v-model="form.repassword" />
           </div>
         </fieldset>
   

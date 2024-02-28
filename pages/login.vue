@@ -14,7 +14,7 @@
 
         <div class="m-8 grid">
           <label>Password: </label>
-          <TextInput v-model="form.password" type="text" placeholder="Enter password" class="bg-white" />
+          <TextInput v-model="form.password" type="password" placeholder="Enter password" class="bg-white" />
         </div>
       </fieldset>
       <div class="text-sm">
